@@ -1,5 +1,5 @@
 let test = 42
-function test() {
-  console.log("hi");
-console.log("hi")
+function testcode() {
+console.log("hi");
+console.log("11")
 }
